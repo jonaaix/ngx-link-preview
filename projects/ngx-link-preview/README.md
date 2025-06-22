@@ -4,9 +4,9 @@
 [![npm](https://img.shields.io/librariesio/release/npm/ngx-link-preview)](https://www.npmjs.com/package/ngx-link-preview)
 
 ### The Open Graph link preview component for Angular 6+
-![](https://raw.githubusercontent.com/btxtiger/ngx-link-preview/master/src/assets/link-preview-2.png)
+![](https://raw.githubusercontent.com/jonaaix/ngx-link-preview/master/src/assets/link-preview-2.png)
 
-### <a href="https://btxtiger.github.io/ngx-link-preview/" target="_blank">⇨ DEMO</a>
+### <a href="https://jonaaix.github.io/ngx-link-preview/" target="_blank">⇨ DEMO</a>
 
 ### Installation
 ```sh
